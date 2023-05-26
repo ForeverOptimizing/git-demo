@@ -6,9 +6,6 @@ git add test.py
 git commit -m "initial commit"
 git push origin main
 
-
-
-
 """
 
 import yfinance as yf
